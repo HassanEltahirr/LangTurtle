@@ -6,7 +6,7 @@ This project is a command-line agent that lets you control a ROS2 turtlesim turt
 
 ---
 
-## Why is this project interesting for an internship?
+## Why makes this project useful?
 
 - **Interdisciplinary Skills:**  
   - Combines robotics (ROS2, turtlesim), AI/NLP (OpenAI, LangChain), and software engineering (Python, tool integration).
