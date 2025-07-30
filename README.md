@@ -16,9 +16,6 @@ This project is a command-line agent that lets you control a ROS2 turtlesim turt
   - Shows hands-on experience with ROS2, LLMs, and Python.
 - **Problem Solving & Creativity:**  
   - Integrates multiple technologies, handles user input, and manages error cases.
-- **Communication & Documentation:**  
-  - With a clear README and code comments, it demonstrates your ability to communicate technical ideas.
-
 ---
 
 ## Features
@@ -104,18 +101,6 @@ Link to youtube video: https://www.youtube.com/watch?v=YyDtbpm66SE
 ## Security Note
 
 The OpenAI API key is hardcoded in `llm.py`. For production, use environment variables or a config file.
-
----
-
-## How to Make This Project Even More Impressive
-
-- Add a `requirements.txt` and make the setup as easy as possible.
-- Showcase with a demo video or animated GIF in your README.
-- Write about challenges you faced and how you solved them (in the README or a blog post).
-- Add more features (e.g., drawing shapes, responding to more natural language commands).
-- Follow security best practices (e.g., don’t hardcode API keys).
-
----
 
 ## License
 
