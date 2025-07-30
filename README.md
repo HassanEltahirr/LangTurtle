@@ -65,7 +65,7 @@ This project is a command-line agent that lets you control a ROS2 turtlesim turt
    - The key is currently hardcoded in `llm.py`. For security, consider using environment variables instead.
 
 ---
-
+Link to youtube video: https://www.youtube.com/watch?v=YyDtbpm66SE
 ## Usage
 
 - Start the ROS2 turtlesim node in a separate terminal:  
